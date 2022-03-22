@@ -19,7 +19,7 @@
                         <div class="p-4 m-3">
                             <img src="assets/images/logo_jmc.png" alt="logo" height="40" class="mb-2 mt-2">
                             <h4 class="text-dark font-weight-bold">System & Software Testing</h4>
-                            <p class="text-muted">JMC Indonesia</p>
+                            <p class="text-muted">JMC ID</p>
                             <?php if(isset($_SESSION["error"]) && $_SESSION["error"] == '1'):?>
                             <div class="alert alert-danger">
                                 Maaf username atau password salah!
